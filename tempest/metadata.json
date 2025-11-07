@@ -1,0 +1,29 @@
+{
+  "nombre": "Tempest",
+  "nombre_original": "Tempest",
+  "sistema": "AAE",
+  "year": 1980,
+  "genres": [
+    "Shooter"
+  ],
+  "publisher": "Atari",
+  "developer": "Atari",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://mma.prnewswire.com/media/1765062/Tempest_Logo.jpg",
+    "https://ih1.redbubble.net/image.3427661464.3038/flat,750x,075,f-pad,750x1000,f8f8f8.webp",
+    "https://aircraftaccessoriesofok.com/wp-content/uploads/2021/12/tempest-3-2.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "tempest",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
