@@ -1,0 +1,69 @@
+{
+  "nombre": "Sundance",
+  "nombre_original": "Sundance",
+  "sistema": "AAE",
+  "year": 1979,
+  "genres": [
+    "Miscellaneous"
+  ],
+  "publisher": "Cinematronics",
+  "developer": "Cinematronics",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [
+    "screenshot_1.webp",
+    "screenshot_2.webp",
+    "screenshot_3.webp",
+    "screenshot_4.webp",
+    "screenshot_5.webp",
+    "screenshot_6.webp",
+    "screenshot_7.webp",
+    "screenshot_8.webp",
+    "screenshot_9.webp",
+    "screenshot_10.webp",
+    "screenshot_11.webp",
+    "screenshot_12.webp",
+    "screenshot_13.webp",
+    "screenshot_14.webp",
+    "screenshot_15.webp",
+    "screenshot_16.webp",
+    "screenshot_17.webp",
+    "screenshot_18.webp"
+  ],
+  "screenshots_urls_descargadas": [
+    "https://upload.wikimedia.org/wikipedia/en/b/b0/Sundance_arcade.png",
+    "https://forums.cdn.launchbox.gg/monthly_2022_10/1238147162_2022-10-20(25).thumb.png.c84ccd24194f2cd22f5ba9f79807d055.png",
+    "https://img.youtube.com/vi/9hAHuYO8bSc/hqdefault.jpg",
+    "https://www.arcade-museum.com/images-game/34/sundance-34837.jpg",
+    "https://www.arcade-museum.com/images-game/34/sundance-34836.jpg",
+    "https://diamondlobby.com/wp-content/uploads/2021/11/Wingsuit-Sundance.jpg",
+    "https://i.ytimg.com/vi/5vQyl1AQ7NA/sddefault.jpg",
+    "https://forums.cdn.launchbox.gg/monthly_2022_09/Sundance-02.thumb.png.161e0667bbc59009aa9c7ec07508a053.png",
+    "https://i.ytimg.com/vi/1j02J_cVm_w/maxresdefault.jpg",
+    "https://pbs.twimg.com/media/G4jLa_xX0AAl-od.jpg",
+    "https://diamondlobby.com/wp-content/uploads/2021/11/Cover-Sundance-1.jpg",
+    "https://img.youtube.com/vi/1GpxgEJQ4ro/hqdefault.jpg",
+    "https://i.ytimg.com/vi/u9iKlcUG7IY/hqdefault.jpg",
+    "https://www.arcade-museum.com/images-game/20/sundance-20832.jpg",
+    "https://i.redd.it/endo2w2iqkz71.png",
+    "https://diamondlobby.com/wp-content/uploads/2021/11/Sundance-Face.jpg",
+    "https://www.arcade-museum.com/images-game/39/sundance-39606.jpg",
+    "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2021/11/Battlefield-2042-Sundance-Specialist.jpg",
+    "https://i0.wp.com/arcadeheroes.com/wp-content/uploads/2015/01/Showdown-HUD-Screenshots_48.jpg",
+    "https://i.ytimg.com/vi/u9iKlcUG7IY/hq720.jpg",
+    "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:218,cw:563,ch:563,q:80,w:563/tPzLtNB636WP8tozKjsbDE.jpg",
+    "https://uscannenberg-uscannenberg-prod.web.arc-cdn.net/resizer/v2/SEFC32WGR5HCPCX7MS5CZ6SVI4.png",
+    "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052018/untitled-1_206.png"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "sundance",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Screenshots: Google+DuckDuckGo (20)",
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
