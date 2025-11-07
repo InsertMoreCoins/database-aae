@@ -1,0 +1,29 @@
+{
+  "nombre": "Major Havoc",
+  "nombre_original": "Major Havoc",
+  "sistema": "AAE",
+  "year": 1983,
+  "genres": [
+    "Shooter"
+  ],
+  "publisher": "Atari",
+  "developer": "Atari",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://i.ytimg.com/vi/OXIu54UlXf8/hqdefault.jpg",
+    "https://images.launchbox-app.com/565ef7e0-7e14-46d9-bbe9-b677d73b852a.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/c/c4/Mhavoc_flyer.png"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "major-havoc",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
