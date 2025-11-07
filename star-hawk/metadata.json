@@ -1,0 +1,28 @@
+{
+  "nombre": "Star Hawk",
+  "nombre_original": "Star Hawk",
+  "sistema": "AAE",
+  "year": 1979,
+  "genres": [
+    "Flying"
+  ],
+  "publisher": "Cinematronics",
+  "developer": "Cinematronics",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://fr.wikipedia.org/wiki/Fichier:Starhawk_(jeu_vid%C3%A9o,_2012)_Logo.png",
+    "https://images.scalebranding.com/star-hawk-logo-b8a0f9ca-3544-428e-a352-fa2444b0adcb.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "star-hawk",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (2)"
+  ]
+}
