@@ -1,0 +1,29 @@
+{
+  "nombre": "Warrior",
+  "nombre_original": "Warrior",
+  "sistema": "AAE",
+  "year": 1979,
+  "genres": [
+    "Fighter"
+  ],
+  "publisher": "Vectorbeam",
+  "developer": "Vectorbeam",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://i.ytimg.com/vi/83Anf2riXFw/maxresdefault.jpg",
+    "https://image.tmdb.org/t/p/original/aZUi3MaAG69ysWDGZBv6mk9rEIO.png",
+    "https://static.vecteezy.com/system/resources/thumbnails/008/019/003/small/spartan-warrior-esport-logo-mascot-design-vector.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "warrior",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
