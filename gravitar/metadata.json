@@ -1,0 +1,29 @@
+{
+  "nombre": "Gravitar",
+  "nombre_original": "Gravitar",
+  "sistema": "AAE",
+  "year": 1982,
+  "genres": [
+    "Shooter"
+  ],
+  "publisher": "Atari",
+  "developer": "Atari",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://cdn1.epicgames.com/spt-assets/cdd45e6970b241a4bdc205a3eac0a364/gravitar-logo-ra43k.png",
+    "https://mma.prnewswire.com/media/1730941/Gravitate_Logo.jpg",
+    "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_5e9f51890a499163300b9a4299b4ea65/gravitee-io.png"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "gravitar",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
