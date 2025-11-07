@@ -1,0 +1,29 @@
+{
+  "nombre": "Eliminator",
+  "nombre_original": "Eliminator",
+  "sistema": "AAE",
+  "year": 1981,
+  "genres": [
+    "Shooter"
+  ],
+  "publisher": "Gremlin",
+  "developer": "Gremlin",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://static.vecteezy.com/system/resources/previews/021/338/865/non_2x/aae-letter-logo-creative-design-aae-unique-design-vector.jpg",
+    "https://static.vecteezy.com/system/resources/previews/027/426/824/non_2x/aae-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg",
+    "https://static.vecteezy.com/system/resources/previews/007/223/175/non_2x/aae-letter-logo-design-on-white-background-aae-creative-initials-letter-logo-concept-aae-letter-design-vector.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "eliminator",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
