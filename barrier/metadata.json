@@ -1,0 +1,29 @@
+{
+  "nombre": "Barrier",
+  "nombre_original": "Barrier",
+  "sistema": "AAE",
+  "year": 1979,
+  "genres": [
+    "Puzzle"
+  ],
+  "publisher": "Vectorbeam",
+  "developer": "Vectorbeam",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://neocopy.es/wp-content/uploads/2014/05/barrier_banner.jpg",
+    "https://static.vecteezy.com/system/resources/previews/009/035/494/non_2x/aae-logo-aae-letter-aae-letter-logo-design-intitials-aae-logo-linked-with-circle-and-uppercase-monogram-logo-aae-typography-for-technology-business-and-real-estate-brand-vector.jpg",
+    "https://www.shutterstock.com/image-vector/modern-geometric-logo-aae-text-260nw-2649739719.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "barrier",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
