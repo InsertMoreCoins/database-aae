@@ -1,0 +1,29 @@
+{
+  "nombre": "Speed Freak",
+  "nombre_original": "Speed Freak",
+  "sistema": "AAE",
+  "year": 1979,
+  "genres": [
+    "Driving"
+  ],
+  "publisher": "Vectorbeam",
+  "developer": "Vectorbeam",
+  "banners_candidatos": [
+    "banner.webp"
+  ],
+  "banner_local": "banner.webp",
+  "screenshots_local": [],
+  "screenshots_urls_descargadas": [
+    "https://www.shutterstock.com/image-vector/speed-freak-modern-stylish-typography-260nw-2089138558.jpg",
+    "https://i1.sndcdn.com/artworks-BjWoFTL8xkDu1N2z-azAduA-t240x240.jpg",
+    "https://www.metal-archives.com/images/3/5/4/0/3540533750_logo.jpg"
+  ],
+  "tiene_review": false,
+  "review_score": null,
+  "carpeta_slug": "speed-freak",
+  "nombre_xml": "AAE",
+  "sistema_slug": "aae",
+  "fuentes_imagenes": [
+    "Banners: Google+DuckDuckGo (3)"
+  ]
+}
