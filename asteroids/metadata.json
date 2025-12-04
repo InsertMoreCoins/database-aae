@@ -7,5 +7,7 @@
     "Shooter"
   ],
   "publisher": "Atari",
+  "aiDescription": "Asteroids, lanzado por Atari en 1979, nos sumerge en un campo de asteroides donde la nave del jugador debe maniobrar y disparar para destruir rocas espaciales y platillos voladores enemigos. La mecánica es engañosamente simple: impulsarse, girar, disparar y, en momentos de pánico, activar el salto al hiperespacio. Cada asteroide destruido se divide en fragmentos más pequeños, aumentando el desafío y exigiendo reflejos y estrategia para evitar colisiones. Este título es un pilar fundamental en la historia de los videojuegos, destacando por su innovador uso de gráficos vectoriales que le otorgaban una estética futurista y distintiva. Su legado perdura como un arquetipo del género arcade, influyendo en innumerables títulos posteriores y demostrando que la simplicidad en el diseño, combinada con una jugabilidad adictiva, puede crear una experiencia atemporal que sigue cautivando a nuevas generaciones de jugadores.",
+  "aiHints": "¿Sabías que la famosa función de 'hiperespacio' de Asteroids era conocida coloquialmente como el 'botón del pánico'? Su uso era una apuesta arriesgada: podías escapar de un peligro inminente o reaparecer directamente en el camino de un asteroide gigante. Además, fue uno de los primeros juegos en popularizar las tablas de puntuaciones altas donde los jugadores podían registrar sus iniciales, creando una competencia feroz en los salones recreativos.",
   "tiene_review": false
 }

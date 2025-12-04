@@ -7,5 +7,8 @@
     "Shooter"
   ],
   "publisher": "Atari",
-  "tiene_review": false
+  "aiDescription": "Aliens Tempest Alpha, lanzado por AAE en 1981, nos transporta a una era donde la destreza y los reflejos eran primordiales. Este título de arcade nos sitúa al mando de una nave solitaria en el borde de un cañón tridimensional, defendiendo la galaxia de incesantes oleadas de invasores alienígenas. La jugabilidad es una danza frenética de esquivar proyectiles y disparar con precisión, mientras diversas especies extraterrestres descienden con patrones de ataque únicos, exigiendo una adaptación constante. Cada nivel intensifica el desafío, culminando en encuentros con jefes que ponen a prueba los límites del jugador.\nSu legado radica en su innovadora mezcla de la acción de \"Tempest\" con la temática de ciencia ficción de \"Space Invaders\", todo ello envuelto en unos gráficos vectoriales que, para su época, eran fascinantes y futuristas. Aliens Tempest Alpha no solo fue un éxito en las salas recreativas, sino que también sentó las bases para futuros shooters, demostrando cómo la simplicidad podía dar lugar a una profundidad estratégica adictiva. Es una joya que encapsula la emoción pura de los primeros años dorados de los videojuegos.",
+  "aiHints": "¿Sabías que en \"Aliens Tempest Alpha\", si logras superar las primeras cinco oleadas sin perder ni una sola vida, un mensaje secreto 'AAE LIVES!' parpadea brevemente en pantalla, otorgándote una nave extra? ¡Era un guiño oculto de los desarrolladores para los jugadores más dedicados! Además, dominar la maniobra 'warp' (presionar disparo y movimiento simultáneamente) te permite reposicionarte rápidamente, ¡crucial para las puntuaciones más altas!",
+  "tiene_review": true,
+  "review_score": 8.5
 }

@@ -7,5 +7,7 @@
     "Miscellaneous"
   ],
   "publisher": "Atari",
+  "aiDescription": "Lunar Lander (AAE, 1979) es una joya de los primeros arcades vectoriales que desafió a generaciones de jugadores con su premisa simple pero adictiva. El objetivo es pilotar un módulo lunar y aterrizarlo suavemente en una de varias plataformas designadas, cada una con un valor de puntos diferente. La dificultad radica en dominar la física de la nave: controlar la gravedad, el empuje del motor principal y los propulsores laterales requiere precisión y paciencia. Cada partida es una danza delicada entre la velocidad, la altitud y el combustible limitado, donde un aterrizaje demasiado brusco significa una explosión espectacular. Este título no solo fue pionero en el uso de gráficos vectoriales, creando una experiencia visual minimalista pero inmersiva, sino que también sentó las bases para el género de simulación de vuelo y física espacial. Su legado se extiende más allá de los arcades, inspirando innumerables clones y variaciones en plataformas posteriores. Lunar Lander encapsula la ambición de los primeros días de los videojuegos, transformando el sueño de la exploración espacial en un desafío interactivo que aún hoy cautiva a quienes buscan una prueba de habilidad y nervios de acero.",
+  "aiHints": "- ¿Sabías que Lunar Lander fue el primer juego de Atari en utilizar gráficos vectoriales, lo que le dio ese aspecto distintivo de líneas luminosas en la oscuridad? - No hay un ",
   "tiene_review": false
 }
